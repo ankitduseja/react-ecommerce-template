@@ -1,0 +1,20 @@
+.review { /* stylelint-disable */
+  display: block;
+  clear: both;
+  margin-bottom: 20px;
+}
+
+.rating {
+  float: right;
+}
+.title {
+  font-weight: bold;
+}
+.reviewtext {
+
+}
+.name {
+  font-size: 0.8em;
+  color: #555;
+  font-style: italic;
+}

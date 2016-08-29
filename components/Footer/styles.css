@@ -1,0 +1,7 @@
+.footer { /* stylelint-disable */
+  background-color: #222;
+  color: #fff;
+  height: 15vh;
+  padding: 2%;
+  clear: both;
+}

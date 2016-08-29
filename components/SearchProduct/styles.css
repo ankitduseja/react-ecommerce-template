@@ -1,0 +1,34 @@
+.searchProduct { /* stylelint-disable */
+
+  margin: 1vw 0 0 4vw;
+  display: inline-block;
+  text-align: center;
+}
+
+.paper {
+  width: 220px;
+  height: 300px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.image {
+  background-position: center;
+  background-size: contain;
+  height: 160px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.pname {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.rating {
+  float: left;
+}
+
+.price {
+  float: right;
+}

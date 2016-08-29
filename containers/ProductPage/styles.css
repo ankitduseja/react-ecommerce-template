@@ -1,0 +1,61 @@
+.productPage { /* stylelint-disable */
+  height: auto;
+}
+
+.paper {
+  width: 90vw;
+  min-height: 70vw;
+  margin: 0 auto;
+  padding: 5vh 5vw;
+}
+.pname {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.image {
+  background-position: center;
+  background-size: contain;
+  height: 300px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.leftside {
+  width: 40vw;
+  float: left;
+}
+
+.rightside {
+  float: right;
+  width: 40vw;
+}
+
+.topbox {
+  clear: both;
+  display: block;
+}
+
+.description {
+  clear: both;
+}
+
+.rating {
+  font-size: 2em;
+  float: right;
+}
+
+.price {
+  float: left;
+  font-size: 2em;
+}
+
+.summary {
+  clear: both;
+}
+
+.reviewbox {
+  display: block;
+  clear: both;
+}

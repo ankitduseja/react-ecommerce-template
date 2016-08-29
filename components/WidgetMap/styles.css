@@ -1,0 +1,27 @@
+.widgetMap {
+  width:100%;
+  max-width:100%;
+  overflow:hidden;
+  height:90vh;
+  color:red;
+}
+.embedMap {
+  height:90%;
+  width:90%;
+  margin: 2% 5%;
+  max-width:100%;
+  img {
+    max-width:none!important;
+    background:none!important;
+    font-size: inherit;
+  }
+  iframe {
+    width:100%;
+    max-width:100%;
+    overflow:hidden;
+    height:100%;
+    color:red;
+    border: 0;
+    min-height: 320px;
+  }
+}

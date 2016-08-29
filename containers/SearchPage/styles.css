@@ -1,0 +1,26 @@
+.searchPage { /* stylelint-disable */
+display: block;
+clear: both;
+}
+
+@media (max-width:700px) {
+  .leftside {
+    padding: 5vw;
+  }
+
+  .rightside {
+
+  }
+}
+
+@media (min-width:700px) {
+  .leftside {
+    width: 50vw;
+    float: left;
+  }
+
+  .rightside {
+    float: right;
+    width: 50vw;
+  }
+}
